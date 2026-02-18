@@ -5,7 +5,7 @@
 
 # Wikicode
 
-A **Wikicode** é um projeto que busca centralizar, em um só lugar, todos os tipos de conhecimentos e referências. Aqui você encontrará referências em HTML, CSS, JavaScript, React, Git, Redes de Computadores, Segurança da Informação (Hacking), Hardware e muito mais. Todos os conhecimentos que eu for aprendendo ao longo do tempo serão adicionados e atualizados, mantendo assim o site sempre ativo.
+A **Wikicode** é um projeto que busca centralizar, em um só lugar, todos os tipos de conhecimentos e referências. Aqui você encontrará referências em HTML, CSS, JavaScript, React, Git, Redes de Computadores, Hardware e entre outros. Todos os conhecimentos que eu for aprendendo ao longo do tempo serão adicionados e atualizados, mantendo assim o site sempre ativo.
 
 ---
 
